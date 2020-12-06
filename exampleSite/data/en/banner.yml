@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: ''
+  bg_image_webp: "/images/just_around_the_corner-1920x1080-en.webp"
   bg_image: "/images/just_around_the_corner-1920x1080-en.png"
   icon: ''
   title: Recuerdame
