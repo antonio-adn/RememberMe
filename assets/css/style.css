@@ -2303,3 +2303,9 @@ figcaption {
   flex: 0 0 33%;
   max-width: 33%;
 }
+
+.col-lg-custom-50 {
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%;
+}
