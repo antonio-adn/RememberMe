@@ -100,6 +100,38 @@ name = "themefisher"
 pre = ""
 url = "https://themefisher.com/"
 weight = 8
+[Languages.es]
+contentDir = "content/spanish"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+home = "Home"
+languageCode = "es"
+languageName = "Es"
+weight = 1
+[[Languages.es.menu.main]]
+name = "services"
+pre = "#"
+url = "services"
+weight = 2
+[[Languages.es.menu.main]]
+name = "team"
+pre = "#"
+url = "team"
+weight = 4
+[[Languages.es.menu.main]]
+name = "blog"
+pre = "#"
+url = "blog"
+weight = 6
+[[Languages.es.menu.main]]
+name = "contact"
+pre = "#"
+url = "contact"
+weight = 7
+[[Languages.es.menu.main]]
+name = "themefisher"
+pre = ""
+url = "https://themefisher.com/"
+weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
