@@ -1523,8 +1523,8 @@ input#e-mail,
   background-color: #26292e;
   border: 1px solid transparent;
   display: block;
-  height: 70px;
-  width: 70px;
+  height: 40px;
+  width: 40px;
   transition: all 400ms ease-out 0s;
 }
 
@@ -2319,8 +2319,4 @@ figcaption {
 
 .cropped-media-article {
   height: 15em;
-}
-
-.twitch-icon {
-
 }

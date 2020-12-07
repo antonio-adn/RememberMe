@@ -7,7 +7,21 @@ social:
 
   # Social
   social :
-    - icon : twitch-icon
-      link : "https://www.twitch.tv/salvaciondecarisma"
+    - link : "https://www.salvaciondecarisma.com/"
+      image : /images/twitch.png
+      alt: La casa de Salvación de Carisma
+    - link : "https://www.twitch.tv/salvaciondecarisma"
       image : /images/twitch.png
       alt: twitch
+    - link : "https://www.youtube.com/channel/UCNJMuEphzLTdX7SVy32EAwg"
+      image : /images/youtube.png
+      alt: youtube
+    - link : "https://twitter.com/SalvCarisma"
+      image : /images/twitter.png
+      alt: twitter
+    - link : "https://www.tiktok.com/@salvaciondecarisma"
+      image : /images/tiktok.png
+      alt: tiktok
+    - link : "https://www.instagram.com/salvaciondecarisma/"
+      image : /images/instagram.png
+      alt: instagram
