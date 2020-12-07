@@ -123,11 +123,6 @@ pre = "#"
 url = "blog"
 weight = 3
 [[Languages.es.menu.main]]
-name = "contact"
-pre = "#"
-url = "contact"
-weight = 4
-[[Languages.es.menu.main]]
 name = "social"
 pre = "#"
 url = "social"
