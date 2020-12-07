@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<div class="row">
-			{{ ref "content/blog/installation.md"}}
+			{{ range first 2 (where site.RegularPages "Section" "==" "blog") ".type" "==" "reglas"}}
 			{{ .Render "article"}}
 			{{ end }}
 		</div>
