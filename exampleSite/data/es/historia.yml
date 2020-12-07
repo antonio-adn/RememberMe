@@ -1,0 +1,12 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/ciberpunkNight.jpg
+  image_webp : images/ciberpunkNight.webp
+  title : El ocaso en nigh city siempre es un momento especial
+  content : "Cualquier con la enorme suerte de poder ver este momento desde una altura considerable asiste al espectaculo del sol escondiendose entre las particulas de polvo 
+  que aun se mantienen en suspensión desde los tiempos del Red, tiñendo todo de un rojo vivo. Cuando los últimos rayos se apagan, el caos de luces multicolor de las zonas 
+  céntricas de la ciudad se abre paso, formando un degradado de luces en cuanto a intensidad y variedad de color a medida que nuestra vista se aleja de als zonas más pobladas.
+  En mitad de este espectaculo, un agujero oscuro, solo iluminado por algún incendio, resalta en mitad de la extensión de la ciudad: La zona de combate, la antigua zona corporativa 
+  destruida por un supuesto ataque nuclear terrorista años atras y hogar de los desesperados y de los pandilleros más peligrosos.   
+  De repente, cerca de allí surge un resplandor. Parece una explosión, la señal de que la noche en Night City ha comenzado"
