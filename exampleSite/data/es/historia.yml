@@ -1,5 +1,5 @@
-############################# feature ###################################
-feature:
+############################# historia ###################################
+historia:
   enable : true
   image : images/ciberpunkNight.jpg
   image_webp : images/ciberpunkNight.webp
