@@ -2297,3 +2297,9 @@ figcaption {
 .cookie-box-hide {
   display: none;
 }
+
+.col-lg-custom {
+  -ms-flex: 0 0 33%;
+  flex: 0 0 33%;
+  max-width: 33%;
+}
