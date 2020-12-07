@@ -7,4 +7,3 @@ author: Silverhand
 description: Reglas para asaltar una Net y freir cerebros de otros netrunners
 
 ---
-![](/images/recap_netrunning.png)
