@@ -108,9 +108,9 @@ languageCode = "es"
 languageName = "Es"
 weight = 1
 [[Languages.es.menu.main]]
-name = "services"
+name = "Historia"
 pre = "#"
-url = "services"
+url = "historia"
 weight = 1
 [[Languages.es.menu.main]]
 name = "team"
