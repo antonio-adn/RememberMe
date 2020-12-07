@@ -18,6 +18,11 @@
 				{{ end }}
 			</div>
 		</div>
+		<div class="row">
+			{{ ref "content/blog/installation.md"}}
+			{{ .Render "article"}}
+			{{ end }}
+		</div>
 	</div>
 </section>
 {{"<!-- Start Services Section -->" | safeHTML}}

@@ -3,9 +3,14 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-  button:
+  title : "Las reglas del juego"
+  content : "Este es un resumen de las reglas a seguir para sobrevivir a una noche en Night City. Basadas en el sistema de juego Cyberpunk Red"
+  link:
+  button1:
     enable : true
-    label : "Start a project with us"
+    label : "Reglas básicas"
+    link : "#contact"
+  button2:
+    enable : true
+    label : "Reglas netRunning"
     link : "#contact"
