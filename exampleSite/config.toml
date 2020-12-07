@@ -1,5 +1,5 @@
 baseURL = "https://www.recuerdame-nightcitynights.com"
-disableLanguages = ["en"]
+disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -25,57 +25,10 @@ pre = "#"
 url = "Equipo"
 weight = 2
 [[Languages.es.menu.main]]
-name = "social"
+name = "Social"
 pre = "#"
 url = "social"
 weight = 4
-[Languages.en]
-contentDir = "content/english"
-copyright = "Copyright &copy; Based on Mehna hugo template. 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Home"
-languageCode = "en-us"
-languageName = "En"
-weight = 2
-[[Languages.en.menu.main]]
-name = "about"
-pre = "#"
-url = "about"
-weight = 1
-[[Languages.en.menu.main]]
-name = "services"
-pre = "#"
-url = "services"
-weight = 2
-[[Languages.en.menu.main]]
-name = "portfolio"
-pre = "#"
-url = "portfolio"
-weight = 3
-[[Languages.en.menu.main]]
-name = "team"
-pre = "#"
-url = "team"
-weight = 4
-[[Languages.en.menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 5
-[[Languages.en.menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 6
-[[Languages.en.menu.main]]
-name = "contact"
-pre = "#"
-url = "contact"
-weight = 7
-[[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = " - "
 description = "Recuerdame - campaña one shot para Salvación de Carisma basada en el mundo de Cyberpunk"
