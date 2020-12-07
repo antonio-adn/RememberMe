@@ -8,7 +8,7 @@ team:
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : Rockerboy
-      content : Originalmente nómada, viajó durante años con la familia. Un revelde recien llegado a la ciudad para hacerse un nombre y quemarlo todo con canciones contra las corporaciones y el gobierno de la ciudad.
+      content : Un revelde recien llegado a la ciudad para hacerse un nombre y quemarlo todo con canciones contra las corporaciones y el gobierno de la ciudad. La Familia nómada era un mundo demasiado pequeño para una estrella.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -40,7 +40,7 @@ team:
       image_webp : images/team/team-3.webp
       image : images/team/team-3.jpg
       designation : Solo
-      content : Originalmente nómada, asentado en al ciudad por bastante tiempo. Estravagante, bravucon y bocazas, ha conseguido hacerse un nombre por sus habilidades. Suele contar con gente de su antigua familia para sus trabajos
+      content : Estravagante, bravucon y bocazas, ha conseguido hacerse un nombre por sus habilidades. Detras de los puños metálicos y el aspecto amenazador aun hay un corazón nómada, aun suele contar con gente de su antigua familia para sus trabajos.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
