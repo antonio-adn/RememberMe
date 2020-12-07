@@ -25,11 +25,6 @@ pre = "#"
 url = "team"
 weight = 2
 [[Languages.es.menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 3
-[[Languages.es.menu.main]]
 name = "social"
 pre = "#"
 url = "social"
