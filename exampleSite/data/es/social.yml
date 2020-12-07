@@ -1,27 +1,29 @@
-############################## Social #############################
+---
 social:
-  enable : true
-  title : Quienes son Salvación de Carisma
-  subtitle : Esto solo es un one shot para Salvación de Carisma, pero hay mucho más.
-  content : Desde grandes heroes, personajes locos y carísmaticos, a investigadores muy poco afortunados. En este caso vuestros jugadores favoritos tendrán que vérselas con Night City, tanto para lo bueno como para lo malo. Podeis encontrar a esta gente maravillosa en todas las redes sociales y lugares mágicos de internet que os podais imaginar
-
-  # Social
-  social :
-    - link : "https://www.salvaciondecarisma.com/"
-      image : /images/sdc.png
-      alt: La casa de Salvación de Carisma
-    - link : "https://www.twitch.tv/salvaciondecarisma"
-      image : /images/twitch.png
-      alt: twitch
-    - link : "https://www.youtube.com/channel/UCNJMuEphzLTdX7SVy32EAwg"
-      image : /images/youtube.png
-      alt: youtube
-    - link : "https://twitter.com/SalvCarisma"
-      image : /images/twitter.png
-      alt: twitter
-    - link : "https://www.tiktok.com/@salvaciondecarisma"
-      image : /images/tiktok.png
-      alt: tiktok
-    - link : "https://www.instagram.com/salvaciondecarisma/"
-      image : /images/instagram.png
-      alt: instagram
+  enable: true
+  title: Quienes son Salvación de Carisma
+  subtitle: Esto solo es un one shot para Salvación de Carisma, pero hay mucho más.
+  content: "Desde grandes heroes, personajes locos y carísmaticos, a investigadores
+    muy poco afortunados. En este caso vuestros jugadores favoritos tendrán que vérselas
+    con Night City, tanto para lo bueno como para lo malo. \n\nPodeis encontrar a
+    esta gente maravillosa en todas las redes sociales y lugares mágicos de internet
+    que os podais imaginar"
+  social:
+  - link: https://www.salvaciondecarisma.com/
+    image: "/images/sdc.png"
+    alt: La casa de Salvación de Carisma
+  - link: https://www.twitch.tv/salvaciondecarisma
+    image: "/images/twitch.png"
+    alt: twitch
+  - link: https://www.youtube.com/channel/UCNJMuEphzLTdX7SVy32EAwg
+    image: "/images/youtube.png"
+    alt: youtube
+  - link: https://twitter.com/SalvCarisma
+    image: "/images/twitter.png"
+    alt: twitter
+  - link: https://www.tiktok.com/@salvaciondecarisma
+    image: "/images/tiktok.png"
+    alt: tiktok
+  - link: https://www.instagram.com/salvaciondecarisma/
+    image: "/images/instagram.png"
+    alt: instagram
