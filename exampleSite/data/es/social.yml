@@ -8,7 +8,7 @@ social:
   # Social
   social :
     - link : "https://www.salvaciondecarisma.com/"
-      image : /images/twitch.png
+      image : /images/sdc.png
       alt: La casa de Salvación de Carisma
     - link : "https://www.twitch.tv/salvaciondecarisma"
       image : /images/twitch.png
