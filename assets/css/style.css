@@ -2320,3 +2320,7 @@ figcaption {
 .cropped-media-article {
   height: 15em;
 }
+
+.yellow-h3 {
+  color: #ccc559
+}
