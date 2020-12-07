@@ -5,8 +5,8 @@ banner:
   bg_image: "/images/just_around_the_corner-1920x1080-en.png"
   icon: ''
   title: Recuerdame
-  content: Una noche en NighCity
+  content: Un one shot para Salvación de Carisma basado en el mundo de Cyberpunk 2077
   button:
-    enable: true
+    enable: false
     label: Explore Us
     link: "#services"
