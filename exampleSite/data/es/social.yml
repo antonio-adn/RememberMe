@@ -2,30 +2,17 @@
 contact:
   enable : true
   title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-
-  # Contact details
-  contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+  subtitle : One shot para Salvación de Carisma
+  content : Grandes heroes, personajes locoss y carísmaticos a investigadores muy poco afortunados. En este caso vuestros jugadores favoritos tendrán que verselas con Night City, tanto para lo bueno como para lo malo.    Podeis encontrar a esta gente maravillosa en todas las redes sociales y lugares mágicos de internet que os podais imaginar:
 
 
-  # Contact form
-  contact_form:
-    enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+  # Social
+    social :
+       - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+         link : "#"
+       - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+         link : "#"
+       - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+         link : "#"
+       - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+         link : "#"

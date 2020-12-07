@@ -127,6 +127,11 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 4
+[[Languages.es.menu.main]]
+name = "social"
+pre = "#"
+url = "social"
+weight = 4
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
