@@ -644,7 +644,7 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color: #ccc559;
 }
 
 .call-to-action p {
@@ -2319,8 +2319,4 @@ figcaption {
 
 .cropped-media-article {
   height: 15em;
-}
-
-.yellow-h3 {
-  color: #ccc559
 }
