@@ -2324,3 +2324,8 @@ figcaption {
 .cropped-media-article {
   height: 15em;
 }
+
+.centre-image {
+  text-align: center;
+  padding-left: 2em;
+}
