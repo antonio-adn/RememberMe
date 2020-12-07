@@ -3,6 +3,8 @@ banner:
   enable: true
   bg_image_webp: "/images/just_around_the_corner-1920x1080-en.webp"
   bg_image: "/images/just_around_the_corner-1920x1080-en.png"
+  image : images/banner-logo.png
+  image_webp : images/banner-logo.webp
   icon: ''
   title: Recuerdame
   content: Un one shot para Salvación de Carisma basado en el mundo de Cyberpunk 2077
