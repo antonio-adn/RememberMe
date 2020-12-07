@@ -1,7 +1,7 @@
 ############################### team ############################
 team:
   enable : true
-  title : Our Team
+  title : El equipo
   team_member :
     # team member loop
     - name : Marco "Fury eyes" García
