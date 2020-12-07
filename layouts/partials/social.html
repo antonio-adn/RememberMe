@@ -25,12 +25,6 @@
 				{{ range .social }}
                 <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
                 {{ end }}
-				{{ range .contact_list }}
-				<div class="con-info clearfix">
-					<i class="{{ .icon }}"></i>
-					<span>{{ .info }}</span>
-				</div>
-				{{ end }}
 			</div>
 		</div>
 	</div>
