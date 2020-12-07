@@ -5,8 +5,8 @@ team:
   team_member :
     # team member loop
     - name : Marco "Fury eyes" García
-      image_webp : images/team/placeholder-team.webp
-      image : images/team/placeholder-team.jpg
+      image_webp : images/placeholder-team.webp
+      image : images/placeholder-team.jpg
       designation : Rockerboy
       content : Un revelde recien llegado a la ciudad para hacerse un nombre y quemarlo todo con canciones contra las corporaciones y el gobierno de la ciudad. La Familia nómada era un mundo demasiado pequeño para una estrella.
       social :
@@ -21,8 +21,8 @@ team:
         
     # team member loop
     - name : Raven / Arianna Steward
-      image_webp : images/team/placeholder-team.webp
-      image : images/team/placeholder-team.jpg
+      image_webp : images/placeholder-team.webp
+      image : images/placeholder-team.jpg
       designation : Netrunner
       content : Originalmente nacida en una familia nómada, desarrolló curiosidad por el mundo virtual desde muy pequeña. Al no poder desarrollar sus habilidades como netrunner en las badlands y se busco la vida para establecerse en la ciudad.
       social :
@@ -37,8 +37,8 @@ team:
         
     # team member loop
     - name : Alex Sabine
-      image_webp : images/team/placeholder-team.webp
-      image : images/team/placeholder-team.jpg
+      image_webp : images/placeholder-team.webp
+      image : images/placeholder-team.jpg
       designation : Solo
       content : Estravagante, bravucon y bocazas, ha conseguido hacerse un nombre por sus habilidades. Detras de los puños metálicos y el aspecto amenazador aun hay un corazón nómada, aun suele contar con gente de su antigua familia para sus trabajos.
       social :
@@ -53,8 +53,8 @@ team:
         
     # team member loop
     - name : Ethan Sabine
-      image_webp : images/team/placeholder-team.webp
-      image : images/team/placeholder-team.jpg
+      image_webp : images/placeholder-team.webp
+      image : images/placeholder-team.jpg
       designation : Piloto nómada
       content : Conductor nómada capaz de conducir cualquier trasto y acostumbrado a las lluvias de balas. Frio al volante por muy fea que sea la situación, pero muy familiar y protector con los suyos. Pasa por la ciudad de vez en cuando a cumplir algún encargo.
       social :
@@ -69,8 +69,8 @@ team:
 
     # team member loop
     - name : Luna Nomoe
-      image_webp : images/team/placeholder-team.webp
-      image : images/team/placeholder-team.jpg
+      image_webp : images/placeholder-team.webp
+      image : images/placeholder-team.jpg
       designation : SEO Specialist
       content : Despues de unos años viajando con una familia nómada y de varios encontronazos con el consejo de la misma, ha llegado a la ciudad hace poco para trabajar como Solo. Especialista en disparo de diferentes armas, incluso en condiciones extremas de movimiento como una caravana nómada.
       social :
@@ -85,8 +85,8 @@ team:
 
         # team member loop
     - name : Ivan Raschke
-      image_webp : images/team/placeholder-team.webp
-      image : images/team/placeholder-team.jpg
+      image_webp : images/placeholder-team.webp
+      image : images/placeholder-team.jpg
       designation : Tech
       content : Biomecánico y doctor de una familia nómada, acostumbrado a trabajar en cualquier parte y en condiciones poco legales. Suele pasar temporadas en la ciudad sacando unos eurodolares fáciles con trabajos en la sombra.
       social :
