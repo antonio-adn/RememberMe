@@ -13,12 +13,12 @@
 				</div>
 				<div class="row">
 					<div class="col-6">
-						<h4>{{ .event | markdownify }}</h3>
-					</div>
-					<div class="col-md-6">
 						<a href="{{ .link | safeURL }}" target="_blank">
 							<img src="{{ .imglink }}" alt="{{ .alt }}" style="width: 35%;">
 						</a>
+					</div>
+					<div class="col-md-6">
+						<h4>{{ .event | markdownify }}</h3>
 					</div>
 				</div>
 			</div>
