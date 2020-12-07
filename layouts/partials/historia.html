@@ -12,10 +12,10 @@
 					<p>{{ .content | markdownify }}</p>
 				</div>
 				<div class="content-block">
-					<div class="col">
+					<div class="col-3">
 						<h3>{{ .event | markdownify }}</h3>
 					</div>
-					<div class="col">
+					<div class="col-md-4">
 						<a href="{{ .link | safeURL }}" target="_blank"><img src="{{ .imglink }}" alt="{{ .alt }}"></a>
 					</div>
 				</div>
