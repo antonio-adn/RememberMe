@@ -20,9 +20,9 @@ pre = "#"
 url = "historia"
 weight = 1
 [[Languages.es.menu.main]]
-name = "team"
+name = "Equipo"
 pre = "#"
-url = "team"
+url = "Equipo"
 weight = 2
 [[Languages.es.menu.main]]
 name = "social"
