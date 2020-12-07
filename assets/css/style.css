@@ -2320,3 +2320,7 @@ figcaption {
 .cropped-media-article {
   height: 15em;
 }
+
+.twitch-icon {
+  background-image: url("/images/twitch.png");
+}
