@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: images/wall-background.png
-  bg_image_webp: images/wall-background.webp
+  bg_image: "/images/wall-background.png"
+  bg_image_webp: "/images/wall-background.webp"
   title: Las reglas del juego
   content: Este es un resumen de las reglas a seguir para sobrevivir a una noche en
     Night City. Basadas en el sistema de juego Cyberpunk Red
