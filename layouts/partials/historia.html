@@ -11,7 +11,10 @@
 					<h2>{{ .title | markdownify }}</h2>
 					<p>{{ .content | markdownify }}</p>
 				</div>
-				
+				<div class="content-block">
+					<p>{{ .event | markdownify }}</p>
+					<a href="{{ .link | safeURL }}" target="_blank"><img src="{{ .imglink }}" alt="{{ .alt }}"></a>
+				</div>
 			</div>
 			<div class="col-lg-6 padding-0" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
 				<!-- this image is for trigger this section fallback background image -->
