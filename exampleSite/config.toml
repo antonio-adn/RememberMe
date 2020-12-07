@@ -77,8 +77,8 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = " - "
+description = "Recuerdame - campaña one shot para Salvación de Carisma basada en el mundo de Cyberpunk"
 google_analytics_id = ""
 logo = "images/logo-rmb.png"
 post_share = true
