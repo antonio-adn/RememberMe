@@ -53,8 +53,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Ethan Sabine
-    image_webp: images/placeholder-team.webp
-    image: images/placeholder-team.jpg
+    image_webp: images/Nomad.webp
+    image: images/Nomad.jpg
     designation: Piloto nómada
     content: Conductor nómada capaz de conducir cualquier trasto y acostumbrado a
       las lluvias de balas. Frio al volante por muy fea que sea la situación, pero
