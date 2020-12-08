@@ -12,7 +12,7 @@ team:
       nómada era un mundo demasiado pequeño para una estrella.
     social:
     - icon: ti-file
-      link: "#"
+      link: "/blog/installation.md"
 
   - name: Raven / Arianna Steward
     image_webp: images/placeholder-team.webp
