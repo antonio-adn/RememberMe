@@ -13,7 +13,9 @@
 				</div>
 				<div class="row">
 					<div class="col-md-7">
-						<h4>{{ .event | markdownify }}</h3>
+						<a href="{{ .link | safeURL }}" target="_blank">
+							<h4>{{ .event | markdownify }}</h4>
+						</a>
 					</div>
 					<div class="col-2 centre-image">
 						<a href="{{ .link | safeURL }}" target="_blank">
