@@ -49,9 +49,9 @@ team:
     image_webp: images/Solo2.webp
     image: images/Solo2.jpg
     designation: Solo
-    content: Despues de unos años viajando con una familia nómada y de varios encontronazos
+    content: Después de unos años viajando con una familia nómada y de varios encontronazos
       con el consejo de la misma, ha llegado a la ciudad hace poco para trabajar como
-      Solo. Especialista en disparo de diferentes armas, incluso en condiciones extremas
+      solo. Especialista en disparo de diferentes armas, incluso en condiciones extremas
       de movimiento como una caravana nómada.
     social:
     - icon: ti-file
