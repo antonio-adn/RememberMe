@@ -57,8 +57,8 @@ team:
     - icon: ti-file
       link: "/protagonistas/solo-2"
   - name: Ivan Raschke
-    image_webp: images/placeholder-team.webp
-    image: images/placeholder-team.jpg
+    image_webp: images/tech.webp
+    image: images/tech.jpg
     designation: Tech
     content: Biomecánico y doctor de una familia nómada, acostumbrado a trabajar en
       cualquier parte y en condiciones poco legales. Suele pasar temporadas en la
