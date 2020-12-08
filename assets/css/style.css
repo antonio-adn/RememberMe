@@ -2328,4 +2328,5 @@ figcaption {
 .centre-image {
   text-align: center;
   padding-left: 2em;
+  margin-top: -1.4em;
 }
