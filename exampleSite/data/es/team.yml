@@ -11,7 +11,7 @@ team:
       todo con canciones contra las corporaciones y el gobierno de la ciudad. La Familia
       nómada era un mundo demasiado pequeño para una estrella.
     social:
-    - icon: ti-facebook
+    - icon: ti-file
       link: "#"
 
   - name: Raven / Arianna Steward
@@ -22,7 +22,7 @@ team:
       el mundo virtual desde muy pequeña. Al no poder desarrollar sus habilidades
       como netrunner en las badlands y se busco la vida para establecerse en la ciudad.
     social:
-    - icon: ti-facebook
+    - icon: ti-file
       link: "#"
 
   - name: Alex Sabine
@@ -34,7 +34,7 @@ team:
       un corazón nómada, aun suele contar con gente de su antigua familia para sus
       trabajos.
     social:
-    - icon: ti-facebook
+    - icon: ti-file
       link: "#"
  
   - name: Ethan Sabine
@@ -46,7 +46,7 @@ team:
       muy familiar y protector con los suyos. Pasa por la ciudad de vez en cuando
       a cumplir algún encargo.
     social:
-    - icon: ti-facebook
+    - icon: ti-file
       link: "#"
  
   - name: Luna Nomoe
@@ -58,7 +58,7 @@ team:
       Solo. Especialista en disparo de diferentes armas, incluso en condiciones extremas
       de movimiento como una caravana nómada.
     social:
-    - icon: ti-facebook
+    - icon: ti-file
       link: "#"
 
   - name: Ivan Raschke
@@ -69,6 +69,6 @@ team:
       cualquier parte y en condiciones poco legales. Suele pasar temporadas en la
       ciudad sacando unos eurodolares fáciles con trabajos en la sombra.
     social:
-    - icon: ti-facebook
+    - icon: ti-file
       link: "#"
 
