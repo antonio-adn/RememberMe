@@ -46,8 +46,8 @@ team:
     - icon: ti-file
       link: "/protagonistas/nomad"
   - name: Luna Nomoe
-    image_webp: images/placeholder-team.webp
-    image: images/placeholder-team.jpg
+    image_webp: images/Solo2.webp
+    image: images/Solo2.jpg
     designation: Solo
     content: Despues de unos años viajando con una familia nómada y de varios encontronazos
       con el consejo de la misma, ha llegado a la ciudad hace poco para trabajar como
