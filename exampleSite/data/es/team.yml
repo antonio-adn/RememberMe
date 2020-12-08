@@ -13,12 +13,7 @@ team:
     social:
     - icon: ti-facebook
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+
   - name: Raven / Arianna Steward
     image_webp: images/placeholder-team.webp
     image: images/placeholder-team.jpg
@@ -29,12 +24,7 @@ team:
     social:
     - icon: ti-facebook
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+
   - name: Alex Sabine
     image_webp: images/Solo1.webp
     image: images/Solo1.jpg
@@ -46,12 +36,7 @@ team:
     social:
     - icon: ti-facebook
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+ 
   - name: Ethan Sabine
     image_webp: images/Nomad.webp
     image: images/Nomad.jpg
@@ -63,12 +48,7 @@ team:
     social:
     - icon: ti-facebook
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+ 
   - name: Luna Nomoe
     image_webp: images/placeholder-team.webp
     image: images/placeholder-team.jpg
@@ -80,12 +60,7 @@ team:
     social:
     - icon: ti-facebook
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+
   - name: Ivan Raschke
     image_webp: images/placeholder-team.webp
     image: images/placeholder-team.jpg
@@ -96,9 +71,4 @@ team:
     social:
     - icon: ti-facebook
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+
