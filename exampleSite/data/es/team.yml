@@ -13,10 +13,9 @@ team:
     social:
     - icon: ti-file
       link: "/protagonistas/rockerboy"
-
   - name: Raven / Arianna Steward
-    image_webp: images/placeholder-team.webp
-    image: images/placeholder-team.jpg
+    image_webp: images/netrunner.webp
+    image: images/netrunner.jpg
     designation: Netrunner
     content: Originalmente nacida en una familia nómada, desarrolló curiosidad por
       el mundo virtual desde muy pequeña. Al no poder desarrollar sus habilidades
@@ -24,7 +23,6 @@ team:
     social:
     - icon: ti-file
       link: "/protagonistas/netrunner"
-
   - name: Alex Sabine
     image_webp: images/Solo1.webp
     image: images/Solo1.jpg
@@ -36,7 +34,6 @@ team:
     social:
     - icon: ti-file
       link: "/protagonistas/solo"
- 
   - name: Ethan Sabine
     image_webp: images/Nomad.webp
     image: images/Nomad.jpg
@@ -48,7 +45,6 @@ team:
     social:
     - icon: ti-file
       link: "/protagonistas/nomad"
- 
   - name: Luna Nomoe
     image_webp: images/placeholder-team.webp
     image: images/placeholder-team.jpg
@@ -60,7 +56,6 @@ team:
     social:
     - icon: ti-file
       link: "/protagonistas/solo-2"
-
   - name: Ivan Raschke
     image_webp: images/placeholder-team.webp
     image: images/placeholder-team.jpg
@@ -71,4 +66,3 @@ team:
     social:
     - icon: ti-file
       link: "/protagonistas/tech"
-
