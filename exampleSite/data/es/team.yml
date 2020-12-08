@@ -38,10 +38,10 @@ team:
     image_webp: images/Nomad.webp
     image: images/Nomad.jpg
     designation: Piloto nómada
-    content: Conductor nómada capaz de conducir cualquier trasto y acostumbrado a
-      las lluvias de balas. Frio al volante por muy fea que sea la situación, pero
-      muy familiar y protector con los suyos. Pasa por la ciudad de vez en cuando
-      a cumplir algún encargo.
+    content: Conductor nómada acostumbrado a las lluvias de balas ycapaz de conducir
+      cualquier trasto. Frío al volante por muy fea que sea la situación, pero muy
+      familiar y protector con los suyos. Pasa por la ciudad de vez en cuando a cumplir
+      algún encargo.
     social:
     - icon: ti-file
       link: "/protagonistas/nomad"
