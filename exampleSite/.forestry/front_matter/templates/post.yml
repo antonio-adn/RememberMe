@@ -24,6 +24,7 @@ fields:
   description: meta description
 pages:
 - exampleSite/content/spanish/protagonistas/netrunner.md
+- exampleSite/content/spanish/protagonistas/nomad.md
 - exampleSite/content/spanish/protagonistas/rockerboy.md
 - exampleSite/content/spanish/protagonistas/solo-2.md
 - exampleSite/content/spanish/protagonistas/solo.md
