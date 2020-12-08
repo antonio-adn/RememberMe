@@ -12,7 +12,7 @@ team:
       nómada era un mundo demasiado pequeño para una estrella.
     social:
     - icon: ti-file
-      link: "/blog/installation"
+      link: "/protagonistas/rockerboy"
 
   - name: Raven / Arianna Steward
     image_webp: images/placeholder-team.webp
@@ -23,7 +23,7 @@ team:
       como netrunner en las badlands y se busco la vida para establecerse en la ciudad.
     social:
     - icon: ti-file
-      link: "#"
+      link: "/protagonistas/netrunner"
 
   - name: Alex Sabine
     image_webp: images/Solo1.webp
@@ -35,7 +35,7 @@ team:
       trabajos.
     social:
     - icon: ti-file
-      link: "#"
+      link: "/protagonistas/solo"
  
   - name: Ethan Sabine
     image_webp: images/Nomad.webp
@@ -47,7 +47,7 @@ team:
       a cumplir algún encargo.
     social:
     - icon: ti-file
-      link: "#"
+      link: "/protagonistas/nomad"
  
   - name: Luna Nomoe
     image_webp: images/placeholder-team.webp
@@ -59,7 +59,7 @@ team:
       de movimiento como una caravana nómada.
     social:
     - icon: ti-file
-      link: "#"
+      link: "/protagonistas/solo-2"
 
   - name: Ivan Raschke
     image_webp: images/placeholder-team.webp
@@ -70,5 +70,5 @@ team:
       ciudad sacando unos eurodolares fáciles con trabajos en la sombra.
     social:
     - icon: ti-file
-      link: "#"
+      link: "/protagonistas/tech"
 
